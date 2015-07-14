@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/COLOR_PRIMARY</item>
+        <item name="colorPrimaryDark">@color/COLOR_PRIMARY_DARK</item>
+        <item name="colorAccent">@color/COLOR_ACCENT</item>
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+</resources>
